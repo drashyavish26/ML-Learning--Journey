@@ -13,10 +13,10 @@ learn Machine Learning from scratch.
 - Machine Learning algorithms (coming soon)
 
 ## My Roadmap
-- [x] Python
-- [x] NumPy
-- [x] Pandas
-- [x] Matplotlib/Seaborn
+- [] Python
+- [] NumPy
+- [] Pandas
+- [] Matplotlib/Seaborn
 - [ ] Classical ML Algorithms
 - [ ] Deep Learning
 - [ ] Projects
