@@ -1,0 +1,9 @@
+Color,Size,City,Price,Purchased
+Red,Small,Delhi,120,Yes
+Blue,Medium,Mumbai,150,No
+Green,Large,Bangalore,80,Yes
+Blue,Small,Delhi,200,Yes
+Red,Medium,Chennai,130,No
+Green,Large,Mumbai,95,No
+Blue,Small,Bangalore,170,Yes
+Red,Large,Chennai,220,Yes
